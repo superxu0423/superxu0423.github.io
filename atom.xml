@@ -1,39 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>无敌帅超</title>
+  <icon>https://www.gravatar.com/avatar/70fca0c817802f6cf01b937f5c69f128</icon>
+  <subtitle>面朝大海，春暖花开</subtitle>
+  <link href="https://superxu0423.github.io/atom.xml" rel="self"/>
   
-  
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
-  <updated>2022-05-31T08:57:43.576Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://superxu0423.github.io/"/>
+  <updated>2022-05-31T12:04:58.487Z</updated>
+  <id>https://superxu0423.github.io/</id>
   
   <author>
     <name>超哥</name>
-    
+    <email>superxu0423@163.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Resume</title>
+    <link href="https://superxu0423.github.io/2022/05/31/me/"/>
+    <id>https://superxu0423.github.io/2022/05/31/me/</id>
+    <published>2022-05-31T11:45:44.000Z</published>
+    <updated>2022-05-31T12:04:58.487Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;个人信息&quot;&gt;&lt;a href=&quot;#个人信息&quot; class=&quot;headerlink&quot; title=&quot;个人信息&quot;&gt;&lt;/a&gt;个人信息&lt;/h2&gt;&lt;h2 id=&quot;技能&quot;&gt;&lt;a href=&quot;#技能&quot; class=&quot;headerlink&quot; title=&quot;技能&quot;&gt;&lt;/a&gt;技能&lt;/h2&gt;&lt;h2 id=&quot;工作经历&quot;&gt;&lt;a href=&quot;#工作经历&quot; class=&quot;headerlink&quot; title=&quot;工作经历&quot;&gt;&lt;/a&gt;工作经历&lt;/h2&gt;</summary>
+    
+    
+    
+    <category term="简历" scheme="https://superxu0423.github.io/categories/%E7%AE%80%E5%8E%86/"/>
+    
+    
+    <category term="自我认识" scheme="https://superxu0423.github.io/tags/%E8%87%AA%E6%88%91%E8%AE%A4%E8%AF%86/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/05/31/hello-world/"/>
-    <id>http://example.com/2022/05/31/hello-world/</id>
+    <link href="https://superxu0423.github.io/2022/05/31/hello-world/"/>
+    <id>https://superxu0423.github.io/2022/05/31/hello-world/</id>
     <published>2022-05-31T08:57:43.576Z</published>
-    <updated>2022-05-31T08:57:43.576Z</updated>
+    <updated>2022-05-31T12:04:47.946Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</summary>
     
     
     
+    <category term="学习" scheme="https://superxu0423.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="自我提升" scheme="https://superxu0423.github.io/tags/%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87/"/>
     
   </entry>
   

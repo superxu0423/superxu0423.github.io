@@ -21,22 +21,49 @@
 ]]></content>
       <categories>
         <category>学习</category>
+        <category>Hexo</category>
       </categories>
       <tags>
-        <tag>自我</tag>
+        <tag>Hexo</tag>
       </tags>
   </entry>
   <entry>
-    <title>Resume</title>
+    <title>自我介绍</title>
     <url>/2022/05/31/me/</url>
-    <content><![CDATA[<h2 id="个人信息"><a href="#个人信息" class="headerlink" title="个人信息"></a>个人信息</h2><h2 id="技能"><a href="#技能" class="headerlink" title="技能"></a>技能</h2><h2 id="工作经历"><a href="#工作经历" class="headerlink" title="工作经历"></a>工作经历</h2><span id="more"></span>
-
-<h2 id="自我评价"><a href="#自我评价" class="headerlink" title="自我评价"></a>自我评价</h2>]]></content>
+    <content><![CDATA[<h2 id="个人信息"><a href="#个人信息" class="headerlink" title="个人信息"></a>个人信息</h2><h2 id="技能"><a href="#技能" class="headerlink" title="技能"></a>技能</h2><h2 id="工作经历"><a href="#工作经历" class="headerlink" title="工作经历"></a>工作经历</h2><h2 id="自我评价"><a href="#自我评价" class="headerlink" title="自我评价"></a>自我评价</h2>]]></content>
       <categories>
+        <category>学习</category>
         <category>简历</category>
       </categories>
       <tags>
-        <tag>自我</tag>
+        <tag>学习</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>糖醋排骨</title>
+    <url>/2021/04/24/%E7%B3%96%E9%86%8B%E6%8E%92%E9%AA%A8/</url>
+    <content><![CDATA[<h1 id="糖醋排骨"><a href="#糖醋排骨" class="headerlink" title="糖醋排骨"></a>糖醋排骨</h1>]]></content>
+      <categories>
+        <category>生活</category>
+        <category>菜谱</category>
+      </categories>
+      <tags>
+        <tag>生活</tag>
+        <tag>菜谱</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>云南之旅</title>
+    <url>/2021/04/24/%E4%BA%91%E5%8D%97%E6%97%85%E6%B8%B8/</url>
+    <content><![CDATA[<h1 id="时间"><a href="#时间" class="headerlink" title="时间"></a>时间</h1><p><em>2021-4-15</em> - *2021-4-21</p>
+<h1 id="地点"><a href="#地点" class="headerlink" title="地点"></a>地点</h1><p><strong>云南</strong></p>
+<h1 id="行程"><a href="#行程" class="headerlink" title="行程"></a>行程</h1><h2 id="1-大理古城"><a href="#1-大理古城" class="headerlink" title="1.大理古城"></a>1.大理古城</h2><h2 id="2-洱海环形"><a href="#2-洱海环形" class="headerlink" title="2.洱海环形"></a>2.洱海环形</h2><h2 id="3-玉龙雪山"><a href="#3-玉龙雪山" class="headerlink" title="3.玉龙雪山"></a>3.玉龙雪山</h2>]]></content>
+      <categories>
+        <category>旅行</category>
+        <category>云南之旅</category>
+      </categories>
+      <tags>
+        <tag>旅行</tag>
       </tags>
   </entry>
 </search>
